@@ -3,7 +3,7 @@ import Spinner from '../spinner/Spinner';
 import ErrorMessage from '../errorMessage/ErrorMesage';
 import MarvelService from '../../services/MarvelService';
 import Skeleton from '../skeleton/Skeleton'
-import PropTypes from 'prop-types'
+
 
 import './charInfo.scss';
 
